@@ -31,7 +31,7 @@
       "git add"
     ]
   },
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "files": [
     "dist",
     "lib",
