@@ -35,7 +35,8 @@
   "files": [
     "dist",
     "lib",
-    "src"
+    "src",
+    ".babelrc"
   ],
   "engineStrict": false,
   "engines": {
